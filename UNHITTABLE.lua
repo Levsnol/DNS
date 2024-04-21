@@ -13,7 +13,7 @@ getgenv().Accounts = {OWNER = 'XK5NG', STAND = "AmenBot10"}
 getgenv().StandConfig = {
     --\\-- ! Main ! --//--
     ['Position'] = 'Back', --Position Of Stand [Back | Left | Right]
-    ['CrewID'] = 32570691, --Must Be In Group For It To Work
+    ['CrewID'] = 16331992, --Must Be In Group For It To Work
     ['Attack'] = 'Heavy', --Heavy = Super Punch Light = Spam Punch [Heavy | Light]
     ['StandMode'] = 'TheWorld', --[Star Platinum : OverHeaven | Star Platinum: The World | Star Platinum, Za Warudo! | TheWorld | Cmoon | King Crimson | Killer Queen | MIH | D4C]
     ['FlyMode'] = 'Glide', --[Glide | FlyV1 | FlyV2 | Hover | Heaven ]
@@ -36,7 +36,7 @@ getgenv().StandConfig = {
     ['SummonPoses'] = 'Pose1', --[false | Pose1 | Pose2 | Pose3]
     ['LowGraphics'] = false, --[true | false] Turns graphics down so your stand doesnt lag too much
     ['AntiStomp'] = true, --[true | false] The Stand Will Cannot Be Stomped Or Grabbed
-    ['CustomName'] = 'Master', --Custom Name Text Default Is [Master] Example Of it 'Im Here, Master'
+    ['CustomName'] = 'king', --Custom Name Text Default Is [Master] Example Of it 'Im Here, Master'
     ['Hidescreen'] = false, --[true | false] If [true] You WIll See White Blank Screen But The Performance Is Gonna Be Good]
     ['ChatCmds'] = true, --[true | false] Chatted When You Use Some Command
     ['MaskMode'] = 'Paintball', --[Surgeon | Paintball | Skull | Pumpkin | Hockey | Ninja | Riot] The Stand Will Buy The Mask You Selected
